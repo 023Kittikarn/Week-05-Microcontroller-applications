@@ -34,9 +34,8 @@ New Tools
 เป็นโปรแกรมแบบ interactive ที่ใช้ดู การทำงานของระบบ (System Monitor)
 แสดง CPU, RAM, Process ต่างๆ แบบ real-time
 ใช้ตรวจสอบว่า container หรือระบบกำลังใช้ทรัพยากรมากน้อยแค่ไหน
+idf.py monitor → ดู serial output
+เครื่องมือหลักที่ใช้ build และจัดการโครงการ ESP32
 
 การศึกษา Architecture คือ เข้าใจวงในของสมอง ESP32
 ส่วน Arithmetic Lab4 คือ ทดลองใช้สมองนั้นคำนวณและทำงานจริง
-idf.py monitor → ดู serial output
-
-✅ สรุป: เครื่องมือหลักที่ใช้ build และจัดการโครงการ ESP32
